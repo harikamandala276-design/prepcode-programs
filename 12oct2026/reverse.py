@@ -1,0 +1,1 @@
+print(tuple(reversed((1,7,9,5))))
