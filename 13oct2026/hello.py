@@ -1,0 +1,1 @@
+print(tuple(reverserd(1,3,4)))
