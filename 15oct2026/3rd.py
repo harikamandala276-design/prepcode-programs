@@ -1,1 +1,8 @@
-try
+try:
+    a=input("enter number 1:")
+    b=input("enter number 2:")
+    print(int(a)/int(b))
+except valueerror:
+    print("give the numbers as a input")
+except zerodivisionerror:
+    print("cannot divide by zero")    
